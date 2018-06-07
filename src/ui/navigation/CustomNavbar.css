@@ -1,0 +1,71 @@
+/*nav.navbar, navbar-default {
+    background-color: #3f4244 !important;
+}
+.navbar-default {
+    background-image: none;
+    border: none;
+    border-radius: 0;
+    height: 100vh;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    padding: 0;
+    height: 100vh;
+}
+
+img {
+    height: 100%;
+}
+
+.container {
+    margin: 0;
+    width: 100%;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.navbar-default > div {
+    padding:0;
+}
+
+.navbar-collapse {
+    padding:0;
+}
+
+
+.navbar-default .navbar-toggle {
+    border-color: white;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: white;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color:white;
+    background-color: transparent;
+}
+
+@media (max-width: 768px) {
+    .navbar-default {
+        height: default;
+    }
+
+    .navbar-default .navbar-nav > li > a {
+        height: default;
+    }
+    img {
+        height: default;
+    }
+  }*/

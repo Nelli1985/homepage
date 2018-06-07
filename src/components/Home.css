@@ -1,0 +1,78 @@
+/* Monitor */
+.show-grid {
+    background-color:rgb(196, 189, 189);
+    min-height: 500px;
+    padding: 0;
+}
+
+.show-col {
+    padding: 0;
+    height: 100vh;
+} 
+.link {
+    position: absolute;
+    top: 1.5em;
+    right: 1.5em;
+}
+.image {
+    height:100%;
+    width:100%;
+    min-height:450px;
+}
+.home-logo {
+    position: absolute;
+    margin: 1em;
+}
+.home-text {
+    position: absolute;
+    top: 45%;
+    left: 20%;
+    z-index: 1;
+    width: 35%;
+    padding: 1.8em;
+    background-color: rgb(228, 222, 222);
+}
+
+
+/* Mobile */
+/*@media (max-width: 599px) { 
+    .show-grid {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .show-row { 
+        margin-left: 0;
+        margin-right: 0;
+        min-width:auto;
+    }
+    .show-col {
+        padding-left: 0;
+        padding-right: 0;
+        height: auto;
+        overflow:hidden;
+        max-height:250px;
+    }
+    .link {
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+    .image {
+        width: 100%;
+    }
+ }*/
+
+/* Maybe needed in the future:
+@media (min-width: 600px) { }
+
+
+@media (max-width: 900px) { 
+
+}
+
+
+@media (min-width: 1200px) { }
+
+
+@media (min-width: 1800px) { }
+*/

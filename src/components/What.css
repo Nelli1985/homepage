@@ -1,0 +1,18 @@
+.row-what {
+    padding: 2em 3em 2em 3em;
+}
+
+.image-what {
+    height: 17em;
+    width: 90%;
+    left:0;
+}
+
+.button-center {
+    margin-left:45%;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 1.7em;
+}

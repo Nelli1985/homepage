@@ -1,0 +1,25 @@
+.logo {
+    position: absolute;
+    z-index: 2;
+    margin-left: 3em;
+    margin-top: 2em;
+}
+
+.grid {
+    padding: 1em;
+    position: relative;
+}
+
+.col-low {
+    margin-top:5em;
+}
+.col-low2 {
+    margin-top:1em;
+}
+
+.title {
+    margin-top:3em;
+    padding-left: 5em;
+}
+
+

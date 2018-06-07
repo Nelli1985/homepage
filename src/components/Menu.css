@@ -1,0 +1,20 @@
+.menu-item {
+    list-style: none;
+    font-weight: bold;
+    font-size: 1.7em;
+    line-height: 2.5;
+    text-align: center;
+}
+
+.menu {
+    padding-top: 10%;
+}
+
+.menu-link {
+    color:rgb(58, 56, 56);
+}
+
+.menu-link:hover {
+    text-decoration:none;
+    color:rgb(104, 100, 100);
+}
